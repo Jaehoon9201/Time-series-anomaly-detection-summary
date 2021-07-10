@@ -1,5 +1,5 @@
 # Time-series-anomaly-detection-summary
-### made by Jaehoon9201
+### MADE BY Jaehoon9201
 ### IF U CLICK THE FIGURE, YOU CAN SEE THE ENLARGED AND CLEAR FIGURE.
 
 ![image](https://user-images.githubusercontent.com/71545160/125157567-c623fc80-e1a6-11eb-81f8-b2e1ead5ebd9.png)
